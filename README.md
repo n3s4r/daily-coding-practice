@@ -1,2 +1,2 @@
 # daily-coding-practice
-n/a
+involves coding practices in various languages.
